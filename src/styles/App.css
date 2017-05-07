@@ -1,0 +1,51 @@
+
+/*App specific styles*/
+
+.App {
+  text-align: center;
+  font-family: arial;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 20px;
+  float: left;
+}
+
+.App-header {
+  background-color: #222;
+  height: 30px;
+  padding: 5px;
+  color: white;
+}
+
+.App-header h1{
+  font-size: 15px;
+  float:left;
+  margin-top: 4px;
+}
+
+.App-intro {
+  font-size: medium;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+/* Nav */
+nav button{
+  margin-right: 5px;
+}
+
+.codeContainer{
+  border: solid 1px;
+  padding:5px;
+  padding-left: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #f0efef;
+  text-align: left;
+}
