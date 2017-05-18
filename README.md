@@ -1,8 +1,10 @@
 
-# reactjs-button-comp-loader
+# Reactjs Button Comp Loader
+
 A ReactJS component loader application that uses a button nav to autoload components.
 
-I needed a starter tool to demo ReactJS code for continuing ed students so I made this cool little app.
+
+[[https://github.com/nuntius-rex/reactjs-button-comp-loader/public/preview.png|alt=octocat]]
 
 Dan Guinn
 http://danguinn.com
