@@ -4,7 +4,7 @@
 A ReactJS component loader application that uses a button nav to autoload components.
 
 
-[Preview](https://github.com/nuntius-rex/reactjs-button-comp-loader/public/preview.png)
+![Preview](/public/preview.png?raw=true "Preview")
 
 Dan Guinn
 http://danguinn.com
